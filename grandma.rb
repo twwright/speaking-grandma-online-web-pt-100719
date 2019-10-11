@@ -1,3 +1,15 @@
+
+def speak_to_grandma(smalltalk)
+if smalltalk == smalltalk.upcase 
+  puts "NO, NOT SINCE 1938!"
+if smalltalk == "I LOVE YOU GRANDMA!"
+  puts "I LOVE YOU TOO PUMPKIN!"
+else 
+  "HUH?! SPEAK UP, SONY!"
+end
+
+
+
 # Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
