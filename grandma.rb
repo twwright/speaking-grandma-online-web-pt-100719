@@ -1,5 +1,5 @@
 def speak_to_grandma(smalltalk)
-  if smalltalk != smalltalk.upcase
+  if smalltalk == smalltalk.upcase
     "NO, NOT SINCE 1938!"
   elsif smalltalk == "I LOVE YOU GRANDMA!"
     "I LOVE YOU TOO PUMPKIN!"
