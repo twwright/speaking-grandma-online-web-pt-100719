@@ -5,6 +5,7 @@ def speak_to_grandma(smalltalk)
     prints "I LOVE YOU TOO PUMPKIN!"
   else
     "HUH?! SPEAK UP, SONY!"
+  end
 end
 
 
