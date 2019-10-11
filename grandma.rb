@@ -1,10 +1,10 @@
 def speak_to_grandma(smalltalk)
   if smalltalk == smalltalk.upcase
-    prints "NO, NOT SINCE 1938!"
+    print "NO, NOT SINCE 1938!"
   elsif smalltalk == "I LOVE YOU GRANDMA!"
-    prints "I LOVE YOU TOO PUMPKIN!"
+    print "I LOVE YOU TOO PUMPKIN!"
   else
-    "HUH?! SPEAK UP, SONY!"
+    "HUH?! SPEAK UP, SONNY!"
   end
 end
 
